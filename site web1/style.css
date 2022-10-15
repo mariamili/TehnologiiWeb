@@ -1,0 +1,44 @@
+﻿body {
+    background-color: #772074 ;
+}
+
+.a {
+    background-color: #4d024b;
+    text-align: center;
+    color:white;
+    padding: 10px 10px 10px 10px;
+    border-style: solid none none none;
+    border-color: white;
+    border-bottom:10px solid #a2039d;
+    font-family: cursive,'Lucida Handwriting';
+    word-spacing: 3px;
+    white-space: nowrap;
+    text-shadow: 2px 2px 5px white;
+    font-style: italic;
+}
+
+.b {
+    background-color: #770274;
+    color: white;
+    font-style: white;
+    text-align: center;
+    border-bottom: 10px solid #a2039d;
+    font-family: 'Comic Sans MS';
+}
+
+.c {
+    background-color: #770274;
+    color: white;
+    font-family:'Comic Sans MS';
+    font-style: white;
+    text-align: center;
+    border-bottom: 10px solid #a2039d;
+    border-top: 10px solid #a2039d;
+}
+
+.container {
+    max-width: 700px;
+    background-color: #4d024b;
+}
+
+
